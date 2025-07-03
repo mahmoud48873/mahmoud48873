@@ -1,11 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> أهلاً! نورت البروفايل بتاعي</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey there, welcome to my GitHub!</h1>
 
-<p>أنا <b>محمود سامح فتحي</b> 🇪🇬، مبرمج <b>Frontend</b> شغوف بتطوير الواجهات وتجربة المستخدم! <br/>
-بحب أشتغل على مشاريع باستخدام <b>React</b>، <b>Tailwind CSS</b>، و<b>JavaScript</b>. دايمًا بسعى أطور نفسي وأوصل لمستوى <b>Senior</b>.</p>
+<p>
+I'm <b>Mahmoud Sameh Fathy</b> — a passionate <b>Frontend Developer</b> from Egypt 🇪🇬.<br/>
+I focus on building modern and user-friendly web interfaces using <b>React.js</b>, <b>JavaScript</b>, <b>Tailwind CSS</b>, and more.
+</p>
 
 ---
 
-### 🚀 المهارات اللي بشتغل بيها
+### 💻 Tech Stack I Work With
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -19,27 +21,20 @@
 
 ---
 
-### 🧩 مشاريع شغالة عليها حاليًا:
+### 🚧 Upcoming Projects
 
-- ✅ **لوحة تحكم Admin Dashboard** بـ React + Tailwind + Chart.js  
-- ✅ **موقع تعليمي بسيط** باستخدام HTML + CSS + JS  
-- ✅ **To-Do App** فيه Local Storage وفلترة  
-
----
-
-### ✍️ المقالات اللي بكتبها (قريبًا إن شاء الله)
-- 📌 كيف تبدأ في مجال الـ Frontend كمبتدئ؟
-- 📌 خطوات تحويل تصميم Figma إلى موقع كامل بـ React.
+- 🔨 Responsive website using **HTML**, **CSS**, and **JavaScript**
+- 📊 **Admin Dashboard** built with **React**, **Tailwind CSS**, and **Chart.js**
 
 ---
 
-### 📫 تقدر تلاقيني هنا:
+### 📬 Contact Me
+
 <p>
-  <a href="https://github.com/mahmoudsam7"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mahmoudsam7" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!-- تقدر تضيف لينكاتك هنا زي Behance, Dribbble, إلخ -->
+  <a href="mailto:mahmod48873@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mahmoud-sameh-859343371" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">🚧 جاري تطوير البروفايل... تابعني علشان تشوف الجديد! 🚀</p>
+<p align="center">Thanks for visiting! Stay tuned for more updates 🔥</p>
